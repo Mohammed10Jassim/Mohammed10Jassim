@@ -21,7 +21,7 @@ This project is a Spring Boot REST API that supports secure user registration, l
 - Spring Security
 - JWT (io.jsonwebtoken)
 - Hibernate / JPA
-- MySQL / H2 DB
+- MySQL
 - Maven
 
 ---
